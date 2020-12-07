@@ -221,7 +221,6 @@ button{
 	transition: 1s;
 }
 .star {
-    visibility: hidden;
     float: right;
     width: 80%;
     height: 150%;
