@@ -221,10 +221,10 @@ button{
 	transition: 1s;
 }
 .star {
-	visibility: hidden;
-    	float: right;
-    	width: 80%;
-    	height: 150%;
+    visibility: hidden;
+    float: right;
+    width: 80%;
+    height: 150%;
 }
 
 .fadeIn {
